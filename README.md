@@ -13,3 +13,7 @@ Instructions editing code.
 Check video to try to duplicate editing read.me.
 
 Edwin
+
+Follow the video to create a new branch and tried to edit readme.md.
+
+Patrick
