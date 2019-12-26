@@ -2,6 +2,8 @@
 
 Instructions editing code.
 
+This is a test to validate Jenkins is able see the video.
+
 1) https://github.com/SlingSports/Sports_MLB
 2) select green button and clone.
 3) Open in Desktop.
